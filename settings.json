@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "LostMcp.aternos.me",
-    "port": 50989,
-    "version": "1.26.31",
+    "port": 59426,
+    "version": "1.26.30",
     "try-creative": false
   },
   "position": {
